@@ -25,6 +25,8 @@ Computer Science • Cybersecurity • Software Engineering
 ![Banner Image](your_banner_image_url_here)
 I'm a passionate **[Your Job Title / Developer Role]** with experience in **[technologies you're proficient in]**. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
  📫 How to reach me: kyle@pfrang.com
+ You can check out the repository [here](project_1_repository_link).
+ You can check out the repository [here](project_2_repository_link).
 -->
 - 🌱 Currently learning: Swift and SwiftUI along with OpenStreetMap
 - 🔭 Working on: Route Planner App for simplified run mapping
@@ -58,13 +60,13 @@ I'm a passionate **[Your Job Title / Developer Role]** with experience in **[tec
 
 ![Project 1 Screenshot](https://drive.google.com/uc?export=view&id=1VHdT7EvQZS2AhsZt7mcEkU22OmhzYiGr)
 
-The Zero Trust Access Control System is a Kubernetes based cybersecurity prototype for monitoring user activity and dynamically managing access to tactical systems built with React, Kerberos, Grafana, Kubernetes, and Zeek. This project demonstrates my ability to design secure systems, implement real time monitoring, integrate cybersecurity tools, and develop dynamic access control tools. You can check out the repository [here](project_1_repository_link).
+The Zero Trust Access Control System is a Kubernetes based cybersecurity prototype for monitoring user activity and dynamically managing access to tactical systems built with React, Kerberos, Grafana, Kubernetes, and Zeek. This project demonstrates my ability to design secure systems, implement real time monitoring, integrate cybersecurity tools, and develop dynamic access control tools. 
 
 ### [Student Progress System](https://drive.google.com/file/d/1n1CDGK2HCxSHS7p2kGfchcf9G35xP5um/view?usp=share_link)
 
 ![Project Screenshot](https://drive.google.com/uc?export=view&id=1l_oeUTs9OYK5_ZQ-uJ8ej1jF6vEUe8wg)
 
-The Student Progress System is a full stack academic data management and analytics platform for analyzing student performance across multiple classes and academic years** built with React, Node.js, Docker, and MySQL. This project showcases my skills in develop full stack applications, manage databases, build data analytics features, and design systems that identifying performance trends and outliers.. You can check out the repository [here](project_2_repository_link).
+The Student Progress System is a full stack academic data management and analytics platform for analyzing student performance across multiple classes and academic years built with React, Node.js, Docker, and MySQL. This project showcases my skills in develop full stack applications, manage databases, build data analytics features, and design systems that identifying performance trends and outliers. 
 
 ## Get in Touch 📬
 
