@@ -31,7 +31,7 @@ I'm a passionate **[Your Job Title / Developer Role]** with experience in **[tec
 - 🌱 Currently learning: Swift and SwiftUI along with OpenStreetMap
 - 🔭 Working on: Route Planner App for simplified run mapping
 - 🌍 Languages: Java, Python, C++, JavaScript, Ada, SQL, HTML/CSS 
-- ⛵️ Fun fact: I am an avid sailor
+- ⛵️ Fun fact: I sail
 
 ## My Skills 🧠
 
