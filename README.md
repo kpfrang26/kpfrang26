@@ -1,6 +1,6 @@
 
 <!--
-**kpfrang26/kpfrang26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**kpfrang26/kpfrang26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. This looks good
 
 Here are some ideas to get you started:
 
